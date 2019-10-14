@@ -1,13 +1,13 @@
 {
     "name": "makerobot",
     "version": "3.0",
-    "description": "Extension for clb Robots micro:bit",
+    "description": "Extension for micro:bit robot",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
         "cbit_IR": "github:zhuning239/cBit_IR",
-        "sonar": "github:zhuning239/sonar"
+        "sonar": "github:wxbt/sonar"
     },
     "files": [
         "README.md",
