@@ -1,3 +1,3 @@
-﻿# makerobot
-Extension for micro:bit robot
+﻿# robot
+Extension of robot car for micro:bit 
 
