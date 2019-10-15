@@ -1,10 +1,3 @@
-/*
-Riven
-modified from pxt-servo/servodriver.ts
-load dependency
-"makerobot": "file:../makerobot"
-*/
-
 
 //% color="#31C7D5" weight=10 icon="\uf1d1"
 namespace makerobot {
