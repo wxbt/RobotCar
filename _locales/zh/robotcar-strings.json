@@ -1,0 +1,16 @@
+{
+	"robotcar.Servo|block": "舵机|%index|角度 %degree",
+	"robotcar.StepperDegree|block": "步进 28BYJ-48|%index|角度 %degree",
+	"robotcar.StepperTurn|block": "步进 28BYJ-48|%index|圈数 %turn",
+	"robotcar.StepperDual|block": "双步进(角度) |M1 %degree1| M2 %degree2",
+	"robotcar.StpCarMove|block": "步进小车 前进 |距离(cm) %distance|轮直径(mm) %diameter",
+	"robotcar.StpCarTurn|block": "步进小车 转向 |角度 %turn|轮直径(mm) %diameter|轮距(mm) %track",
+	"robotcar.MotorRun|block": "电机|%index|速度 %speed",
+	"robotcar.MotorRunDual|block": "电机|%motor1|速度 %speed1|%motor2|速度 %speed2",
+	"robotcar.MotorRunDelay|block": "电机|%index|速度 %speed|延时 %delay|s",
+	"robotcar.MotorStop|block": "电机 停止|%index|",
+	"robotcar.MotorStopAll|block": "停止所有电机",
+	"robotcar.Ultrasonic|block": "超声波|引脚 %pin",
+	"robotcar.MatrixDraw|block": "LED矩阵 描点|X %x|Y %y",
+	"robotcar.MatrixClear|block": "LED矩阵 清空"
+}
