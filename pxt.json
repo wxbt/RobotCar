@@ -1,7 +1,7 @@
 {
-    "name": "makerobot",
-    "version": "3.0",
-    "description": "Extension for micro:bit robot",
+    "name": "RobotCar",
+    "version": "1.0",
+    "description": "Extension of robot car for micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
